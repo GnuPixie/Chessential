@@ -1,2 +1,2 @@
-cikit-image
+scikit-image
 opencv-python
