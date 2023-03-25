@@ -1,0 +1,2 @@
+cikit-image
+opencv-python
